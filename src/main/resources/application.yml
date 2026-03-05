@@ -3,5 +3,5 @@ spring:
     name: productionlearn
 
   mongodb:
-    uri:  ${MONGO_URI}
+    uri: mongodb+srv://krunalbrahmankar43_db_user:NZjmy1ZXiid7dghe@cluster0.9wf6jpo.mongodb.net
     database: Users
